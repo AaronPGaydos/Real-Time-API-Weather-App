@@ -40,7 +40,7 @@ weather-app/
 
 Clone this repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/aaronpgaydos/weather-app.git
 cd weather-app
 
 
