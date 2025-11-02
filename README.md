@@ -40,8 +40,8 @@ weather-app/
 
 Clone this repository:
 
-git clone https://github.com/aaronpgaydos/weather-app.git
-cd weather-app
+git clone https://github.com/aaronpgaydos/Real-Time-API-Weather-App.git
+cd Real-Time-API-Weather-App
 
 
 Open index.html in your browser.
